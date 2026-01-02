@@ -718,7 +718,7 @@ function App() {
       <div className="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between">
         <div className="flex items-center space-x-4">
           <FileSpreadsheet className="w-8 h-8 text-indigo-600" />
-          <h1 className="text-xl font-semibold text-gray-800">Spreadsheet Clone</h1>
+          <h1 className="text-xl font-semibold text-gray-800">Easin Sheet</h1>
         </div>
         <div className="flex items-center space-x-3">
           <span className="text-sm text-gray-600">{user?.email}</span>
